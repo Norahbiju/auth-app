@@ -52,4 +52,4 @@ jobs:
           app-name: 'auth-app-norah'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_574B01A5EE86426BA64351BF1DE58B4E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A25BD2AB67B0468B979587F3DE0EF33C }}
